@@ -1,0 +1,11 @@
+<!-- iOS build'inde kod küçültme (stripping) bu sınıfları silmesin:
+     GameObject.CreatePrimitive (küp, silindir) collider'larını çalışma anında ekler,
+     derleyici bunu göremediği için "kullanılmıyor" sanıyor. -->
+<linker>
+  <assembly fullname="UnityEngine.PhysicsModule">
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.CapsuleCollider" preserve="all" />
+    <type fullname="UnityEngine.SphereCollider" preserve="all" />
+    <type fullname="UnityEngine.MeshCollider" preserve="all" />
+  </assembly>
+</linker>

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db30504a0b0ae49b4a4cc4fe676c6779, type: 3}
+  m_Name: Level_02
+  m_EditorClassIdentifier: Assembly-CSharp::ColorBlockJam.LevelAsset
+  level:
+    timeLimit: 60
+    coinReward: 10
+    layout: '.....
+
+      .aa..
+
+      .....
+
+      .....
+
+      ...b.
+
+      ...b.'
+    blocks:
+    - id: a
+      color: 0
+      axis: 0
+    - id: b
+      color: 0
+      axis: 0
+    gates:
+    - side: 0
+      start: 4
+      length: 1
+      color: 0
+    - side: 2
+      start: 3
+      length: 1
+      color: 0
