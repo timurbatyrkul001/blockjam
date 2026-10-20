@@ -33,3 +33,6 @@ crashlytics-buildid.txt
 *.aab
 *.unitypackage
 .DS_Store
+
+# Eski Color Block Jam ses yedeği (oyunda kullanılmıyor)
+/SoundBackup_CBJ/

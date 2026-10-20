@@ -1,0 +1,1344 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "title": "\u0130LK B\u0130RLE\u015EME",
+      "hint": "AYNI \u0130K\u0130 MEYVEY\u0130 B\u0130RLE\u015ET\u0130R",
+      "start": [
+        {
+          "tier": 0,
+          "count": 6
+        }
+      ],
+      "goals": [
+        {
+          "tier": 1,
+          "count": 3
+        }
+      ],
+      "bag": [],
+      "moves": 0,
+      "baskets": 0,
+      "ice": [],
+      "leaves": [],
+      "leafTiers": [],
+      "stones": 0,
+      "seed": 1701,
+      "par": 3
+    },
+    {
+      "id": 2,
+      "title": "MOR S\u00DCRPR\u0130Z",
+      "hint": "\u0130K\u0130 \u00C7\u0130LEKTEN B\u0130R \u00DCZ\u00DCM OLU\u015ETUR",
+      "start": [
+        {
+          "tier": 1,
+          "count": 3
+        },
+        {
+          "tier": 0,
+          "count": 2
+        }
+      ],
+      "goals": [
+        {
+          "tier": 2,
+          "count": 2
+        }
+      ],
+      "bag": [],
+      "moves": 0,
+      "baskets": 0,
+      "ice": [],
+      "leaves": [],
+      "leafTiers": [],
+      "stones": 0,
+      "seed": 1702,
+      "par": 3
+    },
+    {
+      "id": 3,
+      "title": "\u0130K\u0130 G\u00D6REV",
+      "hint": "HEDEFLER OLU\u015EAN MEYVELER\u0130 SAYAR",
+      "start": [
+        {
+          "tier": 2,
+          "count": 1
+        },
+        {
+          "tier": 1,
+          "count": 2
+        },
+        {
+          "tier": 0,
+          "count": 4
+        }
+      ],
+      "goals": [
+        {
+          "tier": 3,
+          "count": 1
+        },
+        {
+          "tier": 1,
+          "count": 2
+        }
+      ],
+      "bag": [],
+      "moves": 0,
+      "baskets": 0,
+      "ice": [],
+      "leaves": [],
+      "leafTiers": [],
+      "stones": 0,
+      "seed": 1703,
+      "par": 4
+    },
+    {
+      "id": 4,
+      "title": "ELMA ZAMANI",
+      "hint": "K\u00DC\u00C7\u00DCK MEYVELERDEN B\u0130R ELMA YAP",
+      "start": [
+        {
+          "tier": 2,
+          "count": 2
+        },
+        {
+          "tier": 1,
+          "count": 2
+        },
+        {
+          "tier": 0,
+          "count": 4
+        }
+      ],
+      "goals": [
+        {
+          "tier": 4,
+          "count": 1
+        }
+      ],
+      "bag": [],
+      "moves": 0,
+      "baskets": 0,
+      "ice": [],
+      "leaves": [],
+      "leafTiers": [],
+      "stones": 0,
+      "seed": 1704,
+      "par": 7
+    },
+    {
+      "id": 5,
+      "title": "TATLI \u015EEFTAL\u0130",
+      "hint": "ARA B\u0130RLE\u015EMELER DE G\u00D6REVE SAYILIR",
+      "start": [
+        {
+          "tier": 3,
+          "count": 2
+        },
+        {
+          "tier": 2,
+          "count": 2
+        },
+        {
+          "tier": 1,
+          "count": 4
+        }
+      ],
+      "goals": [
+        {
+          "tier": 5,
+          "count": 1
+        },
+        {
+          "tier": 2,
+          "count": 2
+        }
+      ],
+      "bag": [],
+      "moves": 0,
+      "baskets": 0,
+      "ice": [],
+      "leaves": [],
+      "leafTiers": [],
+      "stones": 0,
+      "seed": 1705,
+      "par": 7
+    },
+    {
+      "id": 6,
+      "title": "ARMUT DALI",
+      "hint": "\u0130K\u0130 \u015EEFTAL\u0130Y\u0130 B\u0130RLE\u015ET\u0130R",
+      "start": [
+        {
+          "tier": 4,
+          "count": 2
+        },
+        {
+          "tier": 3,
+          "count": 2
+        },
+        {
+          "tier": 2,
+          "count": 4
+        }
+      ],
+      "goals": [
+        {
+          "tier": 6,
+          "count": 1
+        }
+      ],
+      "bag": [],
+      "moves": 0,
+      "baskets": 0,
+      "ice": [],
+      "leaves": [],
+      "leafTiers": [],
+      "stones": 0,
+      "seed": 1706,
+      "par": 7
+    },
+    {
+      "id": 7,
+      "title": "DAL PLANI",
+      "hint": "\u00D6NCE E\u015ELE\u015EEN K\u00DC\u00C7\u00DCK MEYVELERE BAK",
+      "start": [
+        {
+          "tier": 5,
+          "count": 1
+        },
+        {
+          "tier": 3,
+          "count": 4
+        },
+        {
+          "tier": 2,
+          "count": 4
+        }
+      ],
+      "goals": [
+        {
+          "tier": 4,
+          "count": 2
+        },
+        {
+          "tier": 6,
+          "count": 1
+        }
+      ],
+      "bag": [],
+      "moves": 0,
+      "baskets": 0,
+      "ice": [],
+      "leaves": [],
+      "leafTiers": [],
+      "stones": 0,
+      "seed": 1707,
+      "par": 4
+    },
+    {
+      "id": 8,
+      "title": "\u015EEFTAL\u0130 \u0130K\u0130L\u0130S\u0130",
+      "hint": "\u0130K\u0130 \u015EEFTAL\u0130 OLU\u015ETUR, SONRA ARMUDA G\u0130T",
+      "start": [
+        {
+          "tier": 4,
+          "count": 3
+        },
+        {
+          "tier": 3,
+          "count": 2
+        },
+        {
+          "tier": 2,
+          "count": 4
+        }
+      ],
+      "goals": [
+        {
+          "tier": 5,
+          "count": 2
+        },
+        {
+          "tier": 6,
+          "count": 1
+        }
+      ],
+      "bag": [],
+      "moves": 0,
+      "baskets": 0,
+      "ice": [],
+      "leaves": [],
+      "leafTiers": [],
+      "stones": 0,
+      "seed": 1708,
+      "par": 4
+    },
+    {
+      "id": 9,
+      "title": "\u0130LK KARPUZ",
+      "hint": "\u0130K\u0130 ARMUT B\u00DCY\u00DCK S\u00DCRPR\u0130ZE D\u00D6N\u00DC\u015E\u00DCR",
+      "start": [
+        {
+          "tier": 5,
+          "count": 2
+        },
+        {
+          "tier": 4,
+          "count": 2
+        },
+        {
+          "tier": 3,
+          "count": 2
+        },
+        {
+          "tier": 2,
+          "count": 4
+        }
+      ],
+      "goals": [
+        {
+          "tier": 7,
+          "count": 1
+        }
+      ],
+      "bag": [],
+      "moves": 0,
+      "baskets": 0,
+      "ice": [],
+      "leaves": [],
+      "leafTiers": [],
+      "stones": 0,
+      "seed": 1709,
+      "par": 9
+    },
+    {
+      "id": 10,
+      "title": "BAH\u00C7EN\u0130N YILDIZI",
+      "hint": "\u00D6NCE \u0130K\u0130 ARMUT, SONRA B\u0130R KARPUZ!",
+      "start": [
+        {
+          "tier": 5,
+          "count": 2
+        },
+        {
+          "tier": 4,
+          "count": 4
+        },
+        {
+          "tier": 3,
+          "count": 4
+        }
+      ],
+      "goals": [
+        {
+          "tier": 6,
+          "count": 2
+        },
+        {
+          "tier": 7,
+          "count": 1
+        }
+      ],
+      "bag": [],
+      "moves": 0,
+      "baskets": 0,
+      "ice": [],
+      "leaves": [],
+      "leafTiers": [],
+      "stones": 0,
+      "seed": 1710,
+      "par": 5
+    },
+    {
+      "id": 11,
+      "title": "YEN\u0130 MEYVELER",
+      "hint": "HER B\u0130RLE\u015EMEDE DALA YEN\u0130 MEYVE D\u00DC\u015EER",
+      "start": [
+        {
+          "tier": 0,
+          "count": 4
+        },
+        {
+          "tier": 1,
+          "count": 1
+        }
+      ],
+      "goals": [
+        {
+          "tier": 2,
+          "count": 2
+        }
+      ],
+      "bag": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "moves": 0,
+      "baskets": 0,
+      "ice": [],
+      "leaves": [],
+      "leafTiers": [],
+      "stones": 0,
+      "seed": 2407,
+      "par": 4
+    },
+    {
+      "id": 12,
+      "title": "BEREKET",
+      "hint": "SIRADAK\u0130 MEYVEYE BAKARAK PLAN YAP",
+      "start": [
+        {
+          "tier": 0,
+          "count": 3
+        },
+        {
+          "tier": 1,
+          "count": 2
+        },
+        {
+          "tier": 2,
+          "count": 1
+        }
+      ],
+      "goals": [
+        {
+          "tier": 3,
+          "count": 1
+        },
+        {
+          "tier": 2,
+          "count": 3
+        }
+      ],
+      "bag": [
+        0,
+        0,
+        1,
+        0,
+        2,
+        1,
+        0
+      ],
+      "moves": 0,
+      "baskets": 0,
+      "ice": [],
+      "leaves": [],
+      "leafTiers": [],
+      "stones": 0,
+      "seed": 2444,
+      "par": 7
+    },
+    {
+      "id": 13,
+      "title": "HAMLE SAYACI",
+      "hint": "BU B\u00D6L\u00DCMDE HAMLE SAYIN SINIRLI",
+      "start": [
+        {
+          "tier": 0,
+          "count": 4
+        },
+        {
+          "tier": 1,
+          "count": 2
+        },
+        {
+          "tier": 2,
+          "count": 1
+        }
+      ],
+      "goals": [
+        {
+          "tier": 3,
+          "count": 1
+        },
+        {
+          "tier": 1,
+          "count": 4
+        }
+      ],
+      "bag": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        0
+      ],
+      "moves": 10,
+      "baskets": 0,
+      "ice": [],
+      "leaves": [],
+      "leafTiers": [],
+      "stones": 0,
+      "seed": 2481,
+      "par": 6
+    },
+    {
+      "id": 14,
+      "title": "SEPET",
+      "hint": "\u0130\u015EE YARAMAYAN MEYVEY\u0130 SEPETE AT",
+      "start": [
+        {
+          "tier": 0,
+          "count": 2
+        },
+        {
+          "tier": 1,
+          "count": 1
+        },
+        {
+          "tier": 3,
+          "count": 1
+        },
+        {
+          "tier": 4,
+          "count": 1
+        }
+      ],
+      "goals": [
+        {
+          "tier": 2,
+          "count": 2
+        }
+      ],
+      "bag": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "moves": 8,
+      "baskets": 2,
+      "ice": [],
+      "leaves": [],
+      "leafTiers": [],
+      "stones": 0,
+      "seed": 2518,
+      "par": 4
+    },
+    {
+      "id": 15,
+      "title": "TA\u015ELI DAL",
+      "hint": "TA\u015ELARI SEPETE AT, \u00C7\u0130LEK YAP",
+      "start": [
+        {
+          "tier": 0,
+          "count": 4
+        },
+        {
+          "tier": 1,
+          "count": 1
+        }
+      ],
+      "goals": [
+        {
+          "tier": 99,
+          "count": 2
+        },
+        {
+          "tier": 1,
+          "count": 2
+        }
+      ],
+      "bag": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      "moves": 8,
+      "baskets": 2,
+      "ice": [],
+      "leaves": [],
+      "leafTiers": [],
+      "stones": 2,
+      "seed": 2555,
+      "par": 4
+    },
+    {
+      "id": 16,
+      "title": "BUZLU \u00DCZ\u00DCM",
+      "hint": "BUZ, B\u0130RLE\u015EME YAPTIK\u00C7A \u00C7\u00D6Z\u00DCL\u00DCR",
+      "start": [
+        {
+          "tier": 0,
+          "count": 4
+        },
+        {
+          "tier": 1,
+          "count": 1
+        }
+      ],
+      "goals": [
+        {
+          "tier": 3,
+          "count": 1
+        }
+      ],
+      "bag": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "moves": 9,
+      "baskets": 0,
+      "ice": [
+        {
+          "tier": 2,
+          "count": 3
+        }
+      ],
+      "leaves": [],
+      "leafTiers": [],
+      "stones": 0,
+      "seed": 2592,
+      "par": 5
+    },
+    {
+      "id": 17,
+      "title": "SO\u011EUK SABAH",
+      "hint": "\u00D6NCE BUZU \u00C7\u00D6ZECEK B\u0130RLE\u015EMELER YAP",
+      "start": [
+        {
+          "tier": 0,
+          "count": 4
+        },
+        {
+          "tier": 1,
+          "count": 3
+        },
+        {
+          "tier": 3,
+          "count": 1
+        }
+      ],
+      "goals": [
+        {
+          "tier": 3,
+          "count": 2
+        },
+        {
+          "tier": 4,
+          "count": 1
+        }
+      ],
+      "bag": [
+        0,
+        0,
+        1,
+        2,
+        0,
+        1
+      ],
+      "moves": 12,
+      "baskets": 0,
+      "ice": [
+        {
+          "tier": 2,
+          "count": 2
+        },
+        {
+          "tier": 3,
+          "count": 3
+        }
+      ],
+      "leaves": [],
+      "leafTiers": [],
+      "stones": 0,
+      "seed": 2629,
+      "par": 8
+    },
+    {
+      "id": 18,
+      "title": "YAPRAKLI DAL",
+      "hint": "YAPRAKLARIN ALTINDA MEYVE SAKLI",
+      "start": [
+        {
+          "tier": 0,
+          "count": 5
+        },
+        {
+          "tier": 1,
+          "count": 2
+        }
+      ],
+      "goals": [
+        {
+          "tier": 3,
+          "count": 1
+        }
+      ],
+      "bag": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "moves": 8,
+      "baskets": 0,
+      "ice": [],
+      "leaves": [
+        2,
+        3
+      ],
+      "leafTiers": [
+        1,
+        2
+      ],
+      "stones": 0,
+      "seed": 2666,
+      "par": 4
+    },
+    {
+      "id": 19,
+      "title": "KARI\u015EIK BAH\u00C7E",
+      "hint": "BUZ, TA\u015E VE YAPRAK B\u0130R ARADA",
+      "start": [
+        {
+          "tier": 0,
+          "count": 4
+        },
+        {
+          "tier": 1,
+          "count": 2
+        }
+      ],
+      "goals": [
+        {
+          "tier": 3,
+          "count": 1
+        },
+        {
+          "tier": 99,
+          "count": 1
+        }
+      ],
+      "bag": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        2,
+        0,
+        1
+      ],
+      "moves": 9,
+      "baskets": 1,
+      "ice": [
+        {
+          "tier": 2,
+          "count": 2
+        }
+      ],
+      "leaves": [
+        3
+      ],
+      "leafTiers": [
+        2
+      ],
+      "stones": 1,
+      "seed": 2703,
+      "par": 5
+    },
+    {
+      "id": 20,
+      "title": "KARPUZ \u015EENL\u0130\u011E\u0130",
+      "hint": "B\u00DCY\u00DCK MEYVELER\u0130 SAKLA, KARPUZA G\u0130T",
+      "start": [
+        {
+          "tier": 4,
+          "count": 2
+        },
+        {
+          "tier": 5,
+          "count": 1
+        },
+        {
+          "tier": 3,
+          "count": 2
+        },
+        {
+          "tier": 2,
+          "count": 2
+        },
+        {
+          "tier": 1,
+          "count": 2
+        }
+      ],
+      "goals": [
+        {
+          "tier": 7,
+          "count": 1
+        }
+      ],
+      "bag": [
+        2,
+        3,
+        4,
+        3,
+        2,
+        1
+      ],
+      "moves": 15,
+      "baskets": 0,
+      "ice": [],
+      "leaves": [],
+      "leafTiers": [],
+      "stones": 0,
+      "seed": 2740,
+      "par": 11
+    },
+    {
+      "id": 21,
+      "title": "ELMA YOLU",
+      "hint": "\u0130K\u0130 HEDEF\u0130 AYNI ANDA D\u00DC\u015E\u00DCN",
+      "start": [
+        {
+          "tier": 0,
+          "count": 4
+        },
+        {
+          "tier": 1,
+          "count": 2
+        },
+        {
+          "tier": 2,
+          "count": 2
+        },
+        {
+          "tier": 3,
+          "count": 1
+        }
+      ],
+      "goals": [
+        {
+          "tier": 4,
+          "count": 1
+        },
+        {
+          "tier": 2,
+          "count": 2
+        }
+      ],
+      "bag": [
+        0,
+        1,
+        0,
+        2,
+        0,
+        1
+      ],
+      "moves": 8,
+      "baskets": 0,
+      "ice": [],
+      "leaves": [],
+      "leafTiers": [],
+      "stones": 0,
+      "seed": 2777,
+      "par": 5
+    },
+    {
+      "id": 22,
+      "title": "DONMU\u015E BAH\u00C7E",
+      "hint": "HER B\u0130RLE\u015EME BUZU B\u0130RAZ ER\u0130T\u0130R",
+      "start": [
+        {
+          "tier": 0,
+          "count": 4
+        },
+        {
+          "tier": 1,
+          "count": 2
+        }
+      ],
+      "goals": [
+        {
+          "tier": 3,
+          "count": 1
+        },
+        {
+          "tier": 2,
+          "count": 2
+        }
+      ],
+      "bag": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "moves": 8,
+      "baskets": 0,
+      "ice": [
+        {
+          "tier": 1,
+          "count": 2
+        },
+        {
+          "tier": 2,
+          "count": 3
+        },
+        {
+          "tier": 0,
+          "count": 1
+        }
+      ],
+      "leaves": [],
+      "leafTiers": [],
+      "stones": 0,
+      "seed": 2814,
+      "par": 5
+    },
+    {
+      "id": 23,
+      "title": "SIK YAPRAK",
+      "hint": "\u00D6NCE YAPRAKLARI A\u00C7",
+      "start": [
+        {
+          "tier": 0,
+          "count": 5
+        },
+        {
+          "tier": 1,
+          "count": 1
+        },
+        {
+          "tier": 2,
+          "count": 1
+        }
+      ],
+      "goals": [
+        {
+          "tier": 4,
+          "count": 1
+        },
+        {
+          "tier": 2,
+          "count": 2
+        }
+      ],
+      "bag": [
+        0,
+        1,
+        1,
+        0,
+        2,
+        0,
+        1,
+        0
+      ],
+      "moves": 10,
+      "baskets": 0,
+      "ice": [],
+      "leaves": [
+        1,
+        3,
+        4
+      ],
+      "leafTiers": [
+        2,
+        3,
+        -1
+      ],
+      "stones": 0,
+      "seed": 2851,
+      "par": 7
+    },
+    {
+      "id": 24,
+      "title": "TA\u015E YI\u011EINI",
+      "hint": "\u00DC\u00C7 TA\u015EI DA TEM\u0130ZLE",
+      "start": [
+        {
+          "tier": 0,
+          "count": 3
+        },
+        {
+          "tier": 1,
+          "count": 2
+        },
+        {
+          "tier": 2,
+          "count": 1
+        }
+      ],
+      "goals": [
+        {
+          "tier": 99,
+          "count": 3
+        },
+        {
+          "tier": 3,
+          "count": 1
+        }
+      ],
+      "bag": [
+        0,
+        0,
+        1,
+        1,
+        2,
+        0,
+        1
+      ],
+      "moves": 8,
+      "baskets": 3,
+      "ice": [],
+      "leaves": [],
+      "leafTiers": [],
+      "stones": 3,
+      "seed": 2888,
+      "par": 5
+    },
+    {
+      "id": 25,
+      "title": "\u015EEFTAL\u0130 BAH\u00C7ES\u0130",
+      "hint": "\u015EEFTAL\u0130 \u0130\u00C7\u0130N \u0130K\u0130 ELMA LAZIM",
+      "start": [
+        {
+          "tier": 3,
+          "count": 2
+        },
+        {
+          "tier": 2,
+          "count": 2
+        },
+        {
+          "tier": 1,
+          "count": 2
+        },
+        {
+          "tier": 0,
+          "count": 2
+        }
+      ],
+      "goals": [
+        {
+          "tier": 5,
+          "count": 1
+        },
+        {
+          "tier": 3,
+          "count": 1
+        }
+      ],
+      "bag": [
+        1,
+        2,
+        0,
+        0,
+        3,
+        2
+      ],
+      "moves": 9,
+      "baskets": 0,
+      "ice": [],
+      "leaves": [],
+      "leafTiers": [],
+      "stones": 0,
+      "seed": 2925,
+      "par": 6
+    },
+    {
+      "id": 26,
+      "title": "BUZ VE YAPRAK",
+      "hint": "SIRALAMAYI D\u00DC\u015E\u00DCN",
+      "start": [
+        {
+          "tier": 0,
+          "count": 4
+        },
+        {
+          "tier": 1,
+          "count": 2
+        }
+      ],
+      "goals": [
+        {
+          "tier": 4,
+          "count": 1
+        },
+        {
+          "tier": 2,
+          "count": 1
+        }
+      ],
+      "bag": [
+        0,
+        1,
+        0,
+        1,
+        2,
+        0,
+        0,
+        1
+      ],
+      "moves": 11,
+      "baskets": 0,
+      "ice": [
+        {
+          "tier": 3,
+          "count": 3
+        }
+      ],
+      "leaves": [
+        2,
+        4
+      ],
+      "leafTiers": [
+        2,
+        -1
+      ],
+      "stones": 0,
+      "seed": 2962,
+      "par": 8
+    },
+    {
+      "id": 27,
+      "title": "ARMUT AVI",
+      "hint": "ARMUT \u0130\u00C7\u0130N \u0130K\u0130 \u015EEFTAL\u0130",
+      "start": [
+        {
+          "tier": 5,
+          "count": 1
+        },
+        {
+          "tier": 4,
+          "count": 1
+        },
+        {
+          "tier": 3,
+          "count": 2
+        },
+        {
+          "tier": 2,
+          "count": 2
+        },
+        {
+          "tier": 1,
+          "count": 2
+        }
+      ],
+      "goals": [
+        {
+          "tier": 6,
+          "count": 1
+        },
+        {
+          "tier": 4,
+          "count": 1
+        }
+      ],
+      "bag": [
+        3,
+        2,
+        4,
+        0,
+        1,
+        2
+      ],
+      "moves": 6,
+      "baskets": 1,
+      "ice": [],
+      "leaves": [],
+      "leafTiers": [],
+      "stones": 0,
+      "seed": 2999,
+      "par": 3
+    },
+    {
+      "id": 28,
+      "title": "KI\u015E GELD\u0130",
+      "hint": "BUZLAR KALIN: SABIRLI OL",
+      "start": [
+        {
+          "tier": 0,
+          "count": 4
+        },
+        {
+          "tier": 1,
+          "count": 2
+        },
+        {
+          "tier": 2,
+          "count": 2
+        }
+      ],
+      "goals": [
+        {
+          "tier": 3,
+          "count": 2
+        },
+        {
+          "tier": 4,
+          "count": 1
+        },
+        {
+          "tier": 99,
+          "count": 1
+        }
+      ],
+      "bag": [
+        0,
+        1,
+        0,
+        2,
+        1,
+        0,
+        3,
+        0,
+        1
+      ],
+      "moves": 9,
+      "baskets": 1,
+      "ice": [
+        {
+          "tier": 2,
+          "count": 4
+        },
+        {
+          "tier": 3,
+          "count": 5
+        }
+      ],
+      "leaves": [],
+      "leafTiers": [],
+      "stones": 1,
+      "seed": 3036,
+      "par": 6
+    },
+    {
+      "id": 29,
+      "title": "B\u00DCY\u00DCK HASAT",
+      "hint": "KARPUZA G\u0130DEN YOLU KUR",
+      "start": [
+        {
+          "tier": 6,
+          "count": 1
+        },
+        {
+          "tier": 5,
+          "count": 1
+        },
+        {
+          "tier": 4,
+          "count": 2
+        },
+        {
+          "tier": 3,
+          "count": 2
+        },
+        {
+          "tier": 2,
+          "count": 1
+        }
+      ],
+      "goals": [
+        {
+          "tier": 7,
+          "count": 1
+        },
+        {
+          "tier": 5,
+          "count": 1
+        }
+      ],
+      "bag": [
+        3,
+        4,
+        2,
+        3,
+        5,
+        4
+      ],
+      "moves": 6,
+      "baskets": 0,
+      "ice": [
+        {
+          "tier": 5,
+          "count": 3
+        }
+      ],
+      "leaves": [],
+      "leafTiers": [],
+      "stones": 0,
+      "seed": 3073,
+      "par": 3
+    },
+    {
+      "id": 30,
+      "title": "BAH\u00C7EN\u0130N KRALI",
+      "hint": "B\u00DCY\u00DCK F\u0130NAL: KARPUZ",
+      "start": [
+        {
+          "tier": 5,
+          "count": 2
+        },
+        {
+          "tier": 4,
+          "count": 3
+        },
+        {
+          "tier": 3,
+          "count": 2
+        },
+        {
+          "tier": 2,
+          "count": 2
+        }
+      ],
+      "goals": [
+        {
+          "tier": 7,
+          "count": 1
+        },
+        {
+          "tier": 6,
+          "count": 2
+        }
+      ],
+      "bag": [
+        4,
+        3,
+        5,
+        2,
+        4,
+        3,
+        5
+      ],
+      "moves": 8,
+      "baskets": 0,
+      "ice": [],
+      "leaves": [
+        3
+      ],
+      "leafTiers": [],
+      "stones": 0,
+      "seed": 3110,
+      "par": 5
+    }
+  ]
+}

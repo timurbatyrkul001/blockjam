@@ -1,0 +1,30 @@
+ 1 İLK BİRLEŞME         par  3 (engelsiz  3) hamle  - torba  0 | acgozlu bot KAZANIR  | rastgele bot %100 | cozum: che+ che+ che+ 
+ 2 MOR SÜRPRİZ          par  3 (engelsiz  3) hamle  - torba  0 | acgozlu bot KAZANIR  | rastgele bot %100 | cozum: str+ che+ str+ 
+ 3 İKİ GÖREV            par  4 (engelsiz  4) hamle  - torba  0 | acgozlu bot KAZANIR  | rastgele bot %100 | cozum: che+ str+ gra+ che+ 
+ 4 ELMA ZAMANI          par  7 (engelsiz  7) hamle  - torba  0 | acgozlu bot KAZANIR  | rastgele bot %100 | cozum: gra+ che+ str+ che+ str+ gra+ ora+ 
+ 5 TATLI ŞEFTALİ        par  7 (engelsiz  7) hamle  - torba  0 | acgozlu bot KAZANIR  | rastgele bot %100 | cozum: ora+ gra+ str+ str+ gra+ ora+ app+ 
+ 6 ARMUT DALI           par  7 (engelsiz  7) hamle  - torba  0 | acgozlu bot KAZANIR  | rastgele bot %100 | cozum: ora+ gra+ gra+ ora+ app+ app+ pea+ 
+ 7 DAL PLANI            par  4 (engelsiz  4) hamle  - torba  0 | acgozlu bot KAZANIR  | rastgele bot %100 | cozum: ora+ ora+ app+ pea+ 
+ 8 ŞEFTALİ İKİLİSİ      par  4 (engelsiz  4) hamle  - torba  0 | acgozlu bot KAZANIR  | rastgele bot %100 | cozum: app+ ora+ app+ pea+ 
+ 9 İLK KARPUZ           par  9 (engelsiz  9) hamle  - torba  0 | acgozlu bot KAZANIR  | rastgele bot %100 | cozum: gra+ app+ ora+ pea+ gra+ ora+ app+ pea+ pea+ 
+10 BAHÇENİN YILDIZI     par  5 (engelsiz  5) hamle  - torba  0 | acgozlu bot KAZANIR  | rastgele bot %100 | cozum: app+ pea+ app+ pea+ pea+ 
+11 YENİ MEYVELER        par  4 (engelsiz  4) hamle  - torba  6 | acgozlu bot KAZANIR  | rastgele bot %100 | cozum: che+ che+ str+ str+ 
+12 BEREKET              par  7 (engelsiz  7) hamle  - torba  7 | acgozlu bot KAZANIR  | rastgele bot %100 | cozum: che+ che+ str+ str+ che+ gra+ str+ 
+13 HAMLE SAYACI         par  6 (engelsiz  6) hamle 10 torba  7 | acgozlu bot KAZANIR  | rastgele bot %100 | cozum: che+ che+ che+ str+ gra+ che+ 
+14 SEPET                par  4 (engelsiz  4) hamle  8 torba  7 | acgozlu bot KAZANIR  | rastgele bot %100 | cozum: che+ str+ che+ str+ 
+15 TAŞLI DAL            par  4 (engelsiz  2) hamle  8 torba  7 | acgozlu bot kaybeder | rastgele bot %  0 | cozum: che+ che+ sepet:tas sepet:tas 
+16 BUZLU ÜZÜM           par  5 (engelsiz  1) hamle  9 torba  4 | acgozlu bot KAZANIR  | rastgele bot %100 | cozum: che+ str+ che+ str+ gra+ 
+17 SOĞUK SABAH          par  8 (engelsiz  5) hamle 12 torba  6 | acgozlu bot KAZANIR  | rastgele bot %100 | cozum: str+ che+ che+ str+ gra+ ora+ str+ gra+ 
+18 YAPRAKLI DAL         par  4 (engelsiz  2) hamle  8 torba  6 | acgozlu bot KAZANIR  | rastgele bot % 92 | cozum: che+ str+ str+ gra+ 
+19 KARIŞIK BAHÇE        par  5 (engelsiz  1) hamle  9 torba  8 | acgozlu bot kaybeder | rastgele bot %  0 | cozum: che+ str+ sepet:tas str+ gra+ 
+20 KARPUZ ŞENLİĞİ       par 11 (engelsiz 11) hamle 15 torba  6 | acgozlu bot KAZANIR  | rastgele bot %100 | cozum: gra+ app+ pea+ ora+ app+ gra+ ora+ ora+ app+ pea+ pea+ 
+21 ELMA YOLU            par  5 (engelsiz  5) hamle  8 torba  6 | acgozlu bot KAZANIR  | rastgele bot % 90 | cozum: str+ che+ str+ gra+ ora+ 
+22 DONMUŞ BAHÇE         par  5 (engelsiz  3) hamle  8 torba  8 | acgozlu bot KAZANIR  | rastgele bot % 90 | cozum: che+ che+ str+ str+ gra+ 
+23 SIK YAPRAK           par  7 (engelsiz  5) hamle 10 torba  8 | acgozlu bot KAZANIR  | rastgele bot % 65 | cozum: che+ str+ che+ str+ gra+ gra+ ora+ 
+24 TAŞ YIĞINI           par  5 (engelsiz  2) hamle  8 torba  7 | acgozlu bot kaybeder | rastgele bot %  0 | cozum: str+ gra+ sepet:tas sepet:tas sepet:tas 
+25 ŞEFTALİ BAHÇESİ      par  6 (engelsiz  6) hamle  9 torba  6 | acgozlu bot KAZANIR  | rastgele bot % 57 | cozum: ora+ str+ gra+ gra+ ora+ app+ 
+26 BUZ VE YAPRAK        par  8 (engelsiz  2) hamle 11 torba  8 | acgozlu bot KAZANIR  | rastgele bot %100 | cozum: che+ che+ str+ str+ str+ gra+ gra+ ora+ 
+27 ARMUT AVI            par  3 (engelsiz  3) hamle  6 torba  6 | acgozlu bot KAZANIR  | rastgele bot % 55 | cozum: ora+ app+ pea+ 
+28 KIŞ GELDİ            par  6 (engelsiz  3) hamle  9 torba  9 | acgozlu bot kaybeder | rastgele bot %  0 | cozum: che+ str+ gra+ sepet:tas gra+ ora+ 
+29 BÜYÜK HASAT          par  3 (engelsiz  3) hamle  6 torba  6 | acgozlu bot kaybeder | rastgele bot % 64 | cozum: app+ pea+ pea+ 
+30 BAHÇENİN KRALI       par  5 (engelsiz  5) hamle  8 torba  7 | acgozlu bot KAZANIR  | rastgele bot % 56 | cozum: pea+ ora+ app+ pea+ pea+ 
